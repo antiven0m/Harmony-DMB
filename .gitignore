@@ -1,0 +1,5 @@
+/.cache
+/.env
+/.venv
+/desktop.ini
+/test.py

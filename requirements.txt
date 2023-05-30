@@ -1,0 +1,8 @@
+discord.py
+aiohttp
+wavelink==1.3.5
+sponsorblock
+loguru
+python-dotenv
+spotipy
+tinydb
